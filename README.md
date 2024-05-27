@@ -8,6 +8,7 @@ Take a look at my projects😊!
 ## Machine Learning
 ### Deep Learning algorithms in Breakout
 
+
 <table>
     <tr>
     <td> 
@@ -32,10 +33,15 @@ An implementation of the well Known Paper  [Playing Atari with Deep Reinforcemen
 
 ### Some computer vision
 
+<p align="center"><a href="https://github.com/Cc618/Feature-Changer">
+    <img src="res/papier2.png" width="920" alt="Feature-Changer" title="Emotions identification" /></a></p>
+
+Another paper implementation of the latest method of feature and emotion identification on images named [PAC(Privileged Attribution Constrained)](https://arxiv.org/abs/2203.12905). We used here two differents models to first extract facial feature and then process informations 
 
 
 
-### Mobile Apps
+
+## Mobile Apps
 Available on the [Play Store](https://play.google.com/store/apps/details?id=com.cc.quick_shop) !
 
 <p align="center"><a href="https://github.com/Cc618/Quick-Shop">
