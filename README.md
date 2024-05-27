@@ -38,15 +38,25 @@ An implementation of the well Known Paper  [Playing Atari with Deep Reinforcemen
 
 Another paper implementation of the latest method of feature and emotion identification on images named [PAC(Privileged Attribution Constrained)](https://arxiv.org/abs/2203.12905). We used here two differents models to first extract facial feature and then process informations 
 
+### A touch of NLP
 
+I develop a bot that can summarize and extract keypoint of meetings from any audio source. It use Speach to text module and a collection of various model which perform NLP analysis dont hesitate to check out.
+ 
+<p align="center"><a href="https://github.com/Returnvoidspec/Sst-bot">
+    <img src="téléchargement.jpg" width="720" alt="Feature-Changer" title="SST bot" /></a></p>
 
+We use Docker to make it easier of use
 
 ## Mobile Apps
-Available on the [Play Store](https://play.google.com/store/apps/details?id=com.cc.quick_shop) !
+A collections of Android App i develop to learn  Java and Javascript but i still use them even today !
 
-<p align="center"><a href="https://github.com/Cc618/Quick-Shop">
-    <img src="res/quick_shop.jpg" width="720" alt="Quick-Shop" title="Quick-Shop" /></a></p>
-Shopping list mobile application. Produced with the Flutter framework in Dart.
+<p align="center"><a href="https://github.com/Returnvoidspec/MineSweeper">
+    <img src="res/mine.png" width="720" alt="Quick-Shop" title="Quick-Shop" /></a></p>
+A simple minesweeper mobile application. Produced with java,html and css.
+
+<p align="center"><a href="https://github.com/Returnvoidspec/RunningV3">
+    <img src="res/running.png" width="320" alt="Quick-Shop" title="Quick-Shop" /></a></p>
+A running app that can keep track of your performances. Produced with the Flutter framework in Dart.
 
 
 
@@ -61,6 +71,4 @@ Shopping list mobile application. Produced with the Flutter framework in Dart.
 <a href="https://www.linkedin.com/in/martin-jarnier/"><img src="res/linkedin.png" alt="linkedin" width="24"> LinkedIn</a>
 
 ![Mail](res/mail.svg) [Professional](mailto:martin.jarnier@gmail.com "martin.jarnier@gmail.com")
-
-[My CV](https://cv.celian.dev)
  
