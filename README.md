@@ -1,16 +1,15 @@
 # Hi There !
-I'm Célian Raimbault, a French IT professional and hobbyist.
+I'm Martin Jarnier, a French Engineer in computer science.
 
-I spend a lot of time coding some AIs, OSes and much more 😄
-Competitive programming is also one of my hobbies, I organize and participate regularly to several coding competitions such as [CodeForces](https://codeforces.com/profile/Cc618).
+My main field is the data sciences and more precisely machine learning but i have other interest in coding
 
-Take a look at my [website](https://celian.dev) or my [portfolio](https://portfolio.celian.dev) !
+Take a look at my projects😊 !
 
-## I like coding...
-### Deep Learning algorithms
-<p align="center"><a href="https://github.com/Cc618/PyTorch-Collections">
+## Machine Learning
+### Deep Learning algorithms in Breakout
+<p align="center"><a href="https://i.imgur.com/rRxXF4H.gif">
     <img src="res/pytorch_collections.gif" width="720" alt="PyTorch-Collections" title="PyTorch-Collections" /></a></p>
-A collection of deep learning algorithms made with PyTorch. Inspired by several research papers, it includes mostly image processing and reinforcement learning algorithms.
+An implementation of the famous 
 
 <p align="center"><a href="https://github.com/Cc618/Feature-Changer">
     <img src="res/feature_changer.png" width="720" alt="Feature-Changer" title="Feature-Changer" /></a></p>
