@@ -1,15 +1,36 @@
 # Hi There !
 I'm Martin Jarnier, a French Engineer in computer science.
 
-My main field is the data sciences and more precisely machine learning but i have other interest in coding
+My main field is the data sciences and more precisely machine learning but I have other interests in coding.
 
-Take a look at my projects😊 !
+Take a look at my projects😊!
 
 ## Machine Learning
 ### Deep Learning algorithms in Breakout
-<p align="center"><a href="https://i.imgur.com/rRxXF4H.gif">
-    <img src="res/pytorch_collections.gif" width="720" alt="PyTorch-Collections" title="PyTorch-Collections" /></a></p>
-An implementation of the famous 
+
+<table>
+    <tr>
+    <td> 
+        <img src="https://i.imgur.com/rRxXF4H.gif"
+             style='zoom:91%;'/>
+    <p style='text-align: right; margin-right: 3em; font-family: Serif;'><b> Before Training </b></p>
+    </td>
+    <td> 
+        <img src="https://i.imgur.com/X8ghdpL.gif"
+             style='zoom:91%;'/>
+    <p style='text-align: right; margin-right: 3em; font-family: Serif;'><b> During Training </b></p>
+    </td>
+    <td> 
+        <img src="https://i.imgur.com/Z1K6qBQ.gif"
+             style='zoom:91%;'/>
+    <p style='text-align: right; margin-right: 3em; font-family: Serif;'><b> After Training </b></p>
+    </td>
+    </tr>
+</table>
+
+An implementation of the well Known Paper 
+
+
 
 <p align="center"><a href="https://github.com/Cc618/Feature-Changer">
     <img src="res/feature_changer.png" width="720" alt="Feature-Changer" title="Feature-Changer" /></a></p>
