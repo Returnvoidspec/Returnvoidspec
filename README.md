@@ -34,7 +34,7 @@ An implementation of the well Known Paper  [Playing Atari with Deep Reinforcemen
 ### Some computer vision
 
 <p align="center"><a href="https://github.com/Cc618/Feature-Changer">
-    <img src="res/papier2.png" width="920" alt="Feature-Changer" title="Emotions identification" /></a></p>
+    <img src="res/papier2.png" width="720" alt="Feature-Changer" title="Emotions identification" /></a></p>
 
 Another paper implementation of the latest method of feature and emotion identification on images named [PAC(Privileged Attribution Constrained)](https://arxiv.org/abs/2203.12905). We used here two differents models to first extract facial feature and then process informations 
 
@@ -43,7 +43,7 @@ Another paper implementation of the latest method of feature and emotion identif
 I develop a bot that can summarize and extract keypoint of meetings from any audio source. It use Speach to text module and a collection of various model which perform NLP analysis dont hesitate to check out.
  
 <p align="center"><a href="https://github.com/Returnvoidspec/Sst-bot">
-    <img src="téléchargement.jpg" width="720" alt="Feature-Changer" title="SST bot" /></a></p>
+    <img src="res/téléchargement.jpg" width="720" alt="Feature-Changer" title="SST bot" /></a></p>
 
 We use Docker to make it easier of use
 
